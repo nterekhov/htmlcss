@@ -1,0 +1,20 @@
+<style>
+body{
+    background: #65bd32;
+}
+h1{
+    color:blue;
+}
+section{
+    background:orange;
+}
+#fullstackdevelopment{
+    background:black;
+    color:white;
+    font-style:italic;
+    font-weight:900;
+    font-size: 50px;
+    font-family: Raleway, sans-serif;
+    text-align:center;
+}
+</style>
